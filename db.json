@@ -1,0 +1,12 @@
+{
+    "someData": {
+        "code": "200",
+        "Success": true,
+        "errorcode": 0,
+        "bodyData": {
+            "version": "100",
+            "versionName": "1.0.0",
+            "isGo": true,
+        }
+    }
+}
