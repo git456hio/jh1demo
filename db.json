@@ -6,7 +6,7 @@
         "bodyData": {
             "version": "100",
             "versionName": "1.0.0",
-            "isGo": false
+            "isGo": true
         }
     }
 }
